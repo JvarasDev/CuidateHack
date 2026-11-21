@@ -1,4 +1,4 @@
-# Informe de Pruebas de Penetración — Cuidarte+
+# Informe de Pruebas de Penetración — Cuidate+
 
 Nov 21, 2026 · @juan
 
